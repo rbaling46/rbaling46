@@ -1,11 +1,12 @@
 <!-- Header Banner with Animation and GIF -->
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Exploring+the+world+of+coding+and+design." alt="Typing Animation" />
+ 
 <div align="center">
   <img src="./banner.png" alt="Header Banner" style="width:100%;"/>
   
 # 💫 About Me:
 "Hi, I am RossVan Baling, a passionate frontend developer from Bayawan City, Negros Oriental, Philippines. I am a college student at Negros Oriental State University (NORSU), currently exploring the world of coding and software development. As someone new to programming, I am eager to learn and improve my skills, especially in frontend development and web technologies. I enjoy creating interactive and user-friendly interfaces while continuously expanding my knowledge in the field."
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Exploring+the+world+of+coding+and+design." alt="Typing Animation" />
   
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rossvan1o1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RossVanB) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@NameRoss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rbaling46@gmail.com)
