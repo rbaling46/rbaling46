@@ -8,10 +8,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Exploring+the+world+of+coding+and+design." alt="Typing Animation" />
   
   <br/>
-  <marquee behavior="scroll" direction="left" style="display:inline-block; margin-top:10px;">
-    <img src="./icon.png" alt="Animated GIF" width="50" height="50" style="vertical-align:middle;"/>
-    <span style="font-size:24px; vertical-align:middle; margin-left:10px;">🚀 Welcome to My Profile! Let's Build Something Amazing! 🚀</span>
-</marquee>
+
 
 </div>
 
