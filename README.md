@@ -3,7 +3,7 @@
 
 <!-- Header Banner with Animation and GIF -->
 <div align="center">
-  <img src="https://via.placeholder.com/1200x200" alt="Header Banner" style="width:100%;"/>
+  <img src="[https://via.placeholder.com/](https://scontent.fmnl9-2.fna.fbcdn.net/v/t39.30808-6/469558536_616124000761125_5994931213446057010_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHTWmvT7kFpufZkyfoyJRaw6VCizRKdOsfpUKLNEp06x7URoSQJgsOQIoTh4rl8dZQW79GlYXlxlZ6vpNrZk9IS&_nc_ohc=TXOAFoDZmmMQ7kNvgFwvkGi&_nc_oc=Adg2TbLlGnd_sANjONDEuOta8rJwXgqrPGx6N4ff76_QiCIuJCeyC0FmLvFMknG6_Ac&_nc_zt=23&_nc_ht=scontent.fmnl9-2.fna&_nc_gid=AxWGjST1ME5JCxx1j9hh8ba&oh=00_AYBWP0472BKawnljC_nigDtIWheVtDz0Jv-TOvcC66c8bg&oe=67CF911B)/1200x200" alt="Header Banner" style="width:100%;"/>
   <br/>
   <marquee behavior="scroll" direction="left" style="display:inline-block; margin-top:10px;">
     <img src="https://via.placeholder.com/100x100" alt="Animated GIF" style="vertical-align:middle;"/>
