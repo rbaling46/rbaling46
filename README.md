@@ -1,9 +1,10 @@
-# 💫 About Me:
-👋 Hi, I'm **RossVan Baling**, a passionate frontend developer from **Bayawan City, Negros Oriental, Philippines**.  
-🎓 I'm currently a college student at **Negros Oriental State University (NORSU)**, exploring the exciting world of coding and software development.  
-🚀 As a beginner in programming, I'm eager to learn and improve my skills, especially in **frontend development** and **web technologies**.  
-💡 I enjoy creating **interactive** and **user-friendly interfaces** while continuously expanding my knowledge in the field.  
-🌟 Let's build something amazing together!
+<!-- Header Section with Image -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-profile-id" alt="RossVan Baling" width="200" height="200" style="border-radius: 50%;"/>
+  <h1>👋 Hi, I'm RossVan Baling</h1>
+  <p>🚀 Passionate Frontend Developer | 🌍 Bayawan City, Negros Oriental, Philippines</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Exploring+the+world+of+coding+and+design." alt="Typing Animation" />
+</div>
 
 ---
 
@@ -51,24 +52,32 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=totoybabes1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=totoybabes1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=totoybabes1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=totoybabes1&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=totoybabes1&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totoybabes1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=totoybabes1&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=totoybabes1&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</div>
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=totoybabes1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=totoybabes1&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
 
 ---
 
@@ -88,6 +97,8 @@ Feel free to reach out to me for collaborations, projects, or just a chat!
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=totoybabes1&icon=0&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=totoybabes1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
