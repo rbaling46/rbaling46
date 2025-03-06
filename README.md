@@ -5,7 +5,8 @@
 # 💫 About Me:
 "Hi, I am RossVan Baling, a passionate frontend developer from Bayawan City, Negros Oriental, Philippines. I am a college student at Negros Oriental State University (NORSU), currently exploring the world of coding and software development. As someone new to programming, I am eager to learn and improve my skills, especially in frontend development and web technologies. I enjoy creating interactive and user-friendly interfaces while continuously expanding my knowledge in the field."
 
-
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Exploring+the+world+of+coding+and+design." alt="Typing Animation" />
+  
   <br/>
   <marquee behavior="scroll" direction="left" style="display:inline-block; margin-top:10px;">
     <img src="./icon.png" alt="Animated GIF" width="50" height="50" style="vertical-align:middle;"/>
