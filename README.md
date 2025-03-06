@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Exploring+the+world+of+coding+and+design." alt="Typing Animation" />
   
   <!-- Animated SVG Divider -->
-  <img src="https://raw.githubusercontent.com/rossvanbaling/rossvanbaling/main/svgs/divider.svg" alt="divider" style="width: 100%; height: 10px;" />
+  <img src="https://avatars.githubusercontent.com/u/155656497?v=" alt="divider" style="width: 100%; height: 10px;" />
 </div>
 
 ---
