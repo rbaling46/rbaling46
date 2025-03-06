@@ -1,22 +1,40 @@
-<!-- Header Section with Image -->
+<!-- Header Section with Image and Animated SVG -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/155656497?v=4" alt="RossVan Baling" width="200" height="200" style="border-radius: 50%;"/>
-  <h1>👋 Hi, I'm RossVan Baling</h1>
-  <p>🚀 Passionate Frontend Developer | 🌍 Bayawan City, Negros Oriental, Philippines</p>
+  <img src="https://avatars.githubusercontent.com/u/155656497?v=4" alt="RossVan Baling" width="200" height="200" style="border-radius: 50%; border: 5px solid #00FF00; box-shadow: 0 0 20px #00FF00;" />
+  <h1 style="font-size: 2.5rem; color: #00FF00; text-shadow: 0 0 10px #00FF00;">👋 Hi, I'm RossVan Baling</h1>
+  <p style="font-size: 1.2rem; color: #FFFFFF; text-shadow: 0 0 5px #00FF00;">🚀 Passionate Frontend Developer | 🌍 Bayawan City, Negros Oriental, Philippines</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Exploring+the+world+of+coding+and+design." alt="Typing Animation" />
+  
+  <!-- Animated SVG Divider -->
+  <img src="https://raw.githubusercontent.com/rossvanbaling/rossvanbaling/main/svgs/divider.svg" alt="divider" style="width: 100%; height: 10px;" />
 </div>
 
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rossvan1o1) 
-[![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RossVanB) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@NameRoss) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rbaling46@gmail.com)
+<div align="center">
+  <a href="https://www.facebook.com/rossvan1o1">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://x.com/RossVanB">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.youtube.com/@NameRoss">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:rbaling46@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
 # 💻 Tech Stack:
+<div align="center">
+  <h2 style="color: #00FF00; text-shadow: 0 0 10px #00FF00;">My Tech Stack</h2>
+  <img src="https://raw.githubusercontent.com/rossvanbaling/rossvanbaling/main/svgs/tech-stack.svg" alt="Tech Stack" style="width: 100%; height: auto;" />
+</div>
+
 ### Programming Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
