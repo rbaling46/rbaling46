@@ -8,9 +8,10 @@
 
   <br/>
   <marquee behavior="scroll" direction="left" style="display:inline-block; margin-top:10px;">
-    <img src="https://i.gifer.com/Ry6p.gif" alt="Animated GIF" style="vertical-align:middle;"/>
+    <img src="https://i.gifer.com/Ry6p.gif" alt="Animated GIF" width="50" height="50" style="vertical-align:middle;"/>
     <span style="font-size:24px; vertical-align:middle; margin-left:10px;">🚀 Welcome to My Profile! Let's Build Something Amazing! 🚀</span>
-  </marquee>
+</marquee>
+
 </div>
 
 <!-- Gallery Section -->
