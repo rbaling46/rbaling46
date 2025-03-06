@@ -15,10 +15,12 @@
 <!-- Gallery Section -->
 ## 🖼️ Gallery
 <div align="center">
-  <img src="https://via.placeholder.com/300x200" alt="Gallery Image 1" style="margin:10px;"/>
-  <img src="https://via.placeholder.com/300x200" alt="Gallery Image 2" style="margin:10px;"/>
-  <img src="https://via.placeholder.com/300x200" alt="Gallery Image 3" style="margin:10px;"/>
-  <img src="https://via.placeholder.com/300x200" alt="Gallery Image 4" style="margin:10px;"/>
+  <img src="https://via.placeholder.com/300x200" alt="Gallery Image 1" style="margin:10px; width: 30%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://via.placeholder.com/300x200" alt="Gallery Image 2" style="margin:10px; width: 30%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://via.placeholder.com/300x200" alt="Gallery Image 3" style="margin:10px; width: 30%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://via.placeholder.com/300x200" alt="Gallery Image 4" style="margin:10px; width: 30%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://via.placeholder.com/300x200" alt="Gallery Image 5" style="margin:10px; width: 30%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://via.placeholder.com/300x200" alt="Gallery Image 6" style="margin:10px; width: 30%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
 </div>
 
 ## 🌐 Socials:
