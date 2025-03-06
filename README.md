@@ -1,6 +1,6 @@
 <!-- Header Section with Image -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-profile-id" alt="RossVan Baling" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/155656497?v=4" alt="RossVan Baling" width="200" height="200" style="border-radius: 50%;"/>
   <h1>👋 Hi, I'm RossVan Baling</h1>
   <p>🚀 Passionate Frontend Developer | 🌍 Bayawan City, Negros Oriental, Philippines</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Exploring+the+world+of+coding+and+design." alt="Typing Animation" />
