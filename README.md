@@ -1,7 +1,6 @@
-<!-- Header Banner with Animation and GIF -->
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Exploring+the+world+of+coding+and+design." alt="Typing Animation" />
- 
+<!-- Header Banner with Animation and GIF --> 
 <div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Exploring+the+world+of+coding+and+design." alt="Typing Animation" />
   <img src="./banner.png" alt="Header Banner" style="width:100%;"/>
   
 # 💫 About Me:
