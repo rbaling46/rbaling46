@@ -1,7 +1,7 @@
 <!-- Header Banner with Animation and GIF --> 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!;Exploring+the+world+of+coding+and+design." alt="Typing Animation" />
-  <img src="./banner2.png" alt="Header Banner" style="width:100%;"/>
+  <img src="./ppp.png" alt="Header Banner" style="width:100%;"/>
   
 # 💫 About Me:
 "Hi, I am RossVan Baling, a passionate frontend developer from Bayawan City, Negros Oriental, Philippines. I am a college student at Negros Oriental State University (NORSU), currently exploring the world of coding and software development. As someone new to programming, I am eager to learn and improve my skills, especially in frontend development and web technologies. I enjoy creating interactive and user-friendly interfaces while continuously expanding my knowledge in the field."
